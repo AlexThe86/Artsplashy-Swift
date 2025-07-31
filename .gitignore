@@ -1,0 +1,17 @@
+# Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+*.xcscmblueprint
+
+# Build-Artefakte
+build/
+*.o
+*.dSYM/
+
+# Verschiedenes
+.DS_Store
+*.swp
+*.ipa
+*.log
+
