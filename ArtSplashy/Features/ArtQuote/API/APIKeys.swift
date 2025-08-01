@@ -8,5 +8,5 @@
 import Foundation
 
 struct APIKeys {
-    static let ArtQuoteAPIKey = "8JV5TyAo0dVJtteeD92I64tWKDl2gdK608WgFiuu"
+    static let ArtQuoteAPIKey = "quoteapikey"
 }
